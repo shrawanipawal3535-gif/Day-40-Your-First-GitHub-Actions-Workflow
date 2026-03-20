@@ -75,3 +75,5 @@ Add a step that runs a command that will fail (e.g., exit 1 or a misspelled comm
 Push and observe what happens in the Actions tab
 
 Fix it and push again
+
+<img width="844" height="953" alt="Image" src="https://github.com/user-attachments/assets/394b2653-f7e9-45cb-b995-ba989af31d54" /> <img width="783" height="961" alt="Image" src="https://github.com/user-attachments/assets/6a5fd222-99f6-4c9c-869a-2bc7f7c041e2" />
