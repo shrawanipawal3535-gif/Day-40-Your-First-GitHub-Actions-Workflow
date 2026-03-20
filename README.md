@@ -22,3 +22,46 @@ Step 1: Check out the code using actions/checkout
 Step 2: Print Hello from GitHub Actions!
 
 Push it. Go to the Actions tab on GitHub and watch it run.
+
+<img width="1049" height="751" alt="Image" src="https://github.com/user-attachments/assets/26992f59-c223-460b-95e3-48f087052816" />
+
+## Task 3: Understand the Anatomy
+
+## on:
+
+Defines when the workflow runs
+
+## jobs:
+
+Contains all the tasks (jobs) in the workflow
+
+## runs-on:
+
+Specifies the machine/environment
+
+## steps:
+
+List of actions performed inside a job
+
+## uses:
+
+Used to call a pre-built action
+
+## run:
+
+Executes a command/script
+
+## name: (on a step)
+
+Gives a label/name to the step
+
+## Task 4: Add More Steps
+Update hello.yml to also:
+
+Print the current date and time
+
+Print the name of the branch that triggered the run (hint: GitHub provides this as a variable)
+
+List the files in the repo
+
+Print the runner's operating system
