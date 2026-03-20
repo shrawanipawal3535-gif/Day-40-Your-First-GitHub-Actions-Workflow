@@ -65,3 +65,13 @@ Print the name of the branch that triggered the run (hint: GitHub provides this 
 List the files in the repo
 
 Print the runner's operating system
+
+<img width="843" height="1012" alt="Image" src="https://github.com/user-attachments/assets/78f707d0-c9f2-4a61-9af8-174c78939cf6" />
+
+## Task 5: Break It On Purpose
+
+Add a step that runs a command that will fail (e.g., exit 1 or a misspelled command)
+
+Push and observe what happens in the Actions tab
+
+Fix it and push again
